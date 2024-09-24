@@ -1,5 +1,5 @@
 # Relatório do TP2
-## Data 2024-09-
+## Data 2024-09-18
 ## Resumo 
 
 O TP2 consistiu na realização de um exercício com dois jogos incluidos 
